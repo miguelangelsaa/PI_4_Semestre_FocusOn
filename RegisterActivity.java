@@ -37,7 +37,7 @@ public class RegisterActivity extends AppCompatActivity {
                 cadastrar();
             }
         });
-
+//aqui mudamos algumas coisas
         voltarButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
