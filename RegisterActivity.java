@@ -15,7 +15,7 @@ public class RegisterActivity extends AppCompatActivity {
 
     private EditText emailEditText, usernameEditText, passwordEditText, confirmPasswordEditText;
     private CheckBox novidadesCheckBox, termosCheckBox;
-
+//aqui esta o método do layout
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
